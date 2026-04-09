@@ -2,10 +2,10 @@
 
 | Category | Description | Estimated Cost (USD) |
 | :--- | :--- | :--- |
-| **Hospital Construction** | Medical Hub (OPD, Wards, Surgical Units) | $1,200,000 |
-| **Residential & Recreation** | Staff Housing, Football Pitch, & Basketball Court | $600,000 |
-| **Commercial Infrastructure** | Cafeterias, Hotel, and Supermarket Building | $450,000 |
-| **Medical Technology** | 1.5T MRI, CT Scan, Dialysis, Lab Equipment | $650,000 |
-| **Logistics & Solar** | 6 Ambulances & 150kW Solar-Hybrid Grid | $400,000 |
-| **Operational Reserve** | Initial Staffing & Campus Maintenance | $200,000 |
+| **Hospital Construction** | Medical Hub (OPD, Specialized Wards, Isolation) | $1,200,000 |
+| **Residential & Sports** | Staff Housing Units, Football Pitch, & Basketball Court | $600,000 |
+| **Commercial & Hotel** | Public Cafeteria, Hospital Hotel, & Supermarket | $450,000 |
+| **Advanced Technology** | 1.5T MRI, 128-Slice CT, Dialysis, & Molecular Lab | $650,000 |
+| **Logistics & Solar** | 6 Ambulances & 150kW Solar-Hybrid Microgrid | $400,000 |
+| **Operations Reserve** | Staffing Recruitment & Campus Maintenance Fund | $200,000 |
 | **TOTAL ESTIMATE** | | **$3,500,000** |
