@@ -1,58 +1,63 @@
-# 🏥 Huluul Regional Referral Hospital & Multi-Specialty Network
-**Strategic Healthcare Infrastructure & Regional Diagnostics Hub**
+# 🏥 Huluul Medical City & Regional Referral Network
+### *A Strategic Sovereign Healthcare Initiative*
 
 ## 📄 Executive Summary
-This project outlines a comprehensive medical ecosystem designed for the Huluul District in Sanaag. By leveraging advanced medical technology and strategic rural connectivity, the Huluul Regional Referral Hospital aims to serve as a tertiary-level center of excellence for over 1 million residents.
+The **Huluul Medical City** is a flagship healthcare infrastructure project located in the Sanaag region. Developed through a strategic partnership between the **Ministry of Health Development** and **SPH Global Research**, this facility serves as a self-sustaining tertiary hub. 
 
-The project focuses on high-impact specialties—specifically Neurology, Orthopedics, and Nephrology—while maintaining a robust General Medicine foundation to address the urgent health gaps in the Horn of Africa.
+Beyond its 250-bed capacity, the project integrates a comprehensive urban ecosystem including staff housing, commercial services, and sports facilities, all powered by renewable energy to ensure regional health security for over 1 million residents.
 
 ---
 
 ## 📂 Project Documentation (Direct Links)
-*Guji links-ka hoose si aad u furto faylasha:*
-
 * 📋 **[Implementation Plan](Implementation_Plan.md)**
 * 💰 **[Budget Estimate Overview](Budget_Estimate_Overview.md)**
 * 📊 **[Health Access Analysis](Health_Analysis.md)**
 * 💧 **[Water-Health Nexus Report](water_report.md)**
-* 🛠️ **[Technical Requirements](requirements.txt)**
 
 ---
 
-## 🏗️ Clinical Departments & Academic Scope
-
-### 1. General Medicine & Infectious Diseases
-* **Outpatient Excellence:** High-capacity OPD for primary care and chronic disease screening.
-* **Epidemiology:** Specialized isolation units for managing regional infectious disease outbreaks.
-
-### 2. Advanced Neurology & Stroke Center
-* **Diagnostic Power:** Integration of 1.5T MRI and 128-Slice CT Scan for precise neuro-imaging.
-* **Rehabilitation:** A dedicated pavilion for neuro-physiotherapy and stroke recovery.
-
-### 3. Trauma & Orthopedic Surgery
-* **Emergency Surgery:** Advanced orthopedic theater for complex bone reconstruction.
-* **Trauma Care:** 24/7 rapid response for physical trauma and fracture management.
-
-### 4. Pediatric & Neonatal Intensive Care (NICU)
-* **Specialized Neonatology:** Level III NICU with advanced life-support for premature infants.
-* **Pediatric ER:** Dedicated child-friendly emergency unit.
-
-### 5. Nephrology & Endocrinology (Chronic Care)
-* **Renal Hub:** 15-station Hemodialysis unit addressing the regional kidney disease crisis.
+## 🛰️ Regional Satellite Network (The 4 MCHs)
+To ensure equitable healthcare reach, the Medical City acts as the "Brain" for four (4) solar-powered **Maternal and Child Health (MCH)** satellites, connected via a 24/7 ambulance dispatch system:
+1. **Ceel-Nimcoon MCH**
+2. **Laas-Tomare MCH**
+3. **Dhuur-Cilan MCH**
+4. **Ceel-Dibir MCH**
 
 ---
 
-## 🛠️ Infrastructure & Sustainable Technology
-* **Power Resilience:** 100% Solar-Hybrid Microgrid to ensure zero downtime.
-* **Diagnostic Suite:** Fully digital Molecular Lab, Digital X-Ray, and 4D Ultrasound.
-* **Emergency Logistics:** 6 High-clearance 4x4 Ambulances optimized for rugged nomadic terrain.
+## 🏗️ Integrated Campus Infrastructure
+
+### 1. Clinical Excellence
+* **Specialized Wings:** Neurology, Orthopedics, Nephrology (15-station Dialysis), and Level III NICU.
+* **General Medicine:** High-capacity OPD and specialized Infectious Disease Isolation units.
+
+### 2. Staff Welfare & Recreation
+* **Physician Residences:** Modern on-site housing for international and local specialists.
+* **Sports Complex:** Professional-grade **Football Pitch** and **Basketball Court** for staff wellness and physical rehabilitation.
+
+### 3. Commercial & Hospitality Services
+* **Dining:** Dedicated Doctor’s Cafeteria and a separate Public Food Court for caretakers and visitors.
+* **Hospital Hotel:** High-standard accommodation for families traveling from remote rural areas.
+* **Retail:** Integrated **Supermarket** managed by the hospital to provide essential services to the campus community.
 
 ---
 
-## 🤝 Institutional Engagement
-This project is part of the **SPH Global Research** portfolio.
+## 🤝 Collaboration & Investment Framework
+This project is a multi-stakeholder initiative led by:
+
+* **Public Sector:** **Ministry of Health Development (MoHD)** – Oversight and Regulatory Alignment.
+* **Strategic Partner:** **SPH Global Research** – Technical Infrastructure, AI Diagnostics, and Project Management.
+* **International Partners:** Open for collaboration with **WHO, UNICEF, and Global Health Investors**.
+
+---
+
+## 🛠️ Infrastructure Specs
+* **Power:** 150kW Solar-Hybrid Microgrid for 24/7 reliability.
+* **Logistics:** 6 Specialized 4x4 Ambulances (2 at Hub, 1 at each MCH satellite).
+* **Diagnostics:** 1.5T MRI, 128-Slice CT Scan, and Digital Molecular Lab.
+
+---
 
 **Lead Researcher:** Ahmed Ismail Saed Hussein  
 **Founder & CEO:** SPH Global Research  
-**Location:** Huluul, Sanaag, Somaliland  
-**Status:** Academic Proposal / Investment-Ready
+**Status:** Investment-Ready / Professional Portfolio
