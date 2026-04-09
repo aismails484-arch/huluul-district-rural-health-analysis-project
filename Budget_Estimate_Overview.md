@@ -1,10 +1,11 @@
-# Budget Estimate: Comprehensive Phase 1 & 2
+# Budget Estimate: Huluul Medical City Project
 
 | Category | Description | Estimated Cost (USD) |
 | :--- | :--- | :--- |
-| **Construction** | Referral Hub + 4 Satellite MCHs | $1,100,000 |
-| **Advanced Imaging** | MRI, CT Scan, Digital X-Ray, 4D Ultrasound | $900,000 |
-| **Specialized Equipment** | Dialysis (15 units), NICU, Neuro/Ortho Tools | $650,000 |
-| **Ambulance Fleet** | 6 Specialized 4x4 Emergency Vehicles | $300,000 |
-| **Solar & Operations** | 100kW Solar Microgrid & Initial HR Setup | $350,000 |
-| **TOTAL ESTIMATE** | | **$3,300,000** |
+| **Hospital Construction** | Medical Hub (OPD, Wards, Surgical Units) | $1,200,000 |
+| **Residential & Recreation** | Staff Housing, Football Pitch, & Basketball Court | $600,000 |
+| **Commercial Infrastructure** | Cafeterias, Hotel, and Supermarket Building | $450,000 |
+| **Medical Technology** | 1.5T MRI, CT Scan, Dialysis, Lab Equipment | $650,000 |
+| **Logistics & Solar** | 6 Ambulances & 150kW Solar-Hybrid Grid | $400,000 |
+| **Operational Reserve** | Initial Staffing & Campus Maintenance | $200,000 |
+| **TOTAL ESTIMATE** | | **$3,500,000** |
