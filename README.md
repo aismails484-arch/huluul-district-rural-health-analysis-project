@@ -5,38 +5,41 @@ To establish a world-class, academic-grade medical complex in Huluul, Sanaag, se
 
 ---
 
-## 📄 Abstract
-This project outlines a comprehensive healthcare transformation for Huluul and its 18 satellite villages. The facility is a **250-bed Specialized Referral Hospital** designed to handle complex cases that currently require travel to distant regions. 
+## 📂 Project Documentation & Quick Links
+Guji links-ka hoose si aad u akhrido warbixin kasta oo faahfaahsan:
 
-The strategy focuses on five critical pillars: **Advanced Neurology**, **Trauma & Orthopedics**, **Pediatrics/NICU**, **Nephrology (Dialysis)**, and **Endocrinology (Thyroid Care)**. By connecting the main hub with four solar-powered MCH satellites (Ceel-Nimcoon, Laas-Tomare, Dhuur-Cilan, and Ceel-Dibir) via a 24/7 dedicated ambulance fleet, we ensure equitable access to specialist care.
+### 📑 Strategic Planning
+* 📋 **[Implementation Plan](Implementation_Plan.md)** - 24-month roadmap and development phases.
+* 💰 **[Budget Estimate Overview](Budget_Estimate_Overview.md)** - Financial breakdown ($3.3M USD).
+* 🛠️ **[Technical Requirements](requirements.txt)** - Data analysis tools and libraries.
+
+### 📊 Specialized Reports
+* 📊 **[Health Access Analysis](Health_Analysis.md)** - Disease patterns, stroke prevalence, and gap analysis.
+* 💧 **[Water-Health Nexus Report](water_report.md)** - The integration of water infrastructure and clinical care.
 
 ---
 
 ## 🏗️ Core Specialized Departments
-
-### 1. Neurology & Stroke Rehabilitation Center
-* **Neurosurgery Suite:** Advanced micro-surgical tools for brain and spinal interventions.
-* **Stroke Rehab Pavilion:** An academic-grade rehabilitation center providing neuro-physiotherapy and occupational therapy for stroke survivors.
-* **Diagnostics:** 1.5T MRI and 128-Slice CT Scan for precision neurology.
-
-### 2. Orthopedics & Trauma Center
-* **Fracture Excellence:** Specialized in complex bone reconstruction and trauma surgery.
-* **Academic Physiotherapy:** Post-surgical mobility and recovery unit.
-
-### 3. Pediatric & Neonatal Wing (NICU)
-* **Level III NICU:** Advanced incubators and respiratory support for premature infants.
-* **Pediatric Ward:** A 40-bed child-friendly unit for emergencies and chronic pediatric care.
-
-### 4. Nephrology & Endocrinology (Chronic Diseases)
-* **Dialysis Unit:** A 15-station Hemodialysis center for chronic kidney disease.
-* **Thyroid & Endocrine Clinic:** Specialized management of hormonal disorders and diabetes.
+1. **Neurology & Stroke Rehabilitation Center**: Neurosurgery suite and an academic-grade stroke rehab pavilion.
+2. **Orthopedics & Trauma Center**: Specialized in complex fracture reconstruction and emergency trauma care.
+3. **Pediatric & Neonatal Wing (NICU)**: 40-bed specialized unit for infants and children.
+4. **Nephrology & Endocrinology**: 15-station Dialysis center and Thyroid disorder clinic.
 
 ---
 
 ## 🛠️ Infrastructure & Tech Specs
-* **Imaging:** Digital X-Ray, 4D Ultrasound, MRI, and CT Scan.
-* **Power:** 100% Solar-Hybrid Microgrid for 24/7 reliability.
-* **Logistics:** 6 Specialized 4x4 Ambulances (2 for Hub, 1 for each MCH).
+* **Imaging:** 1.5T MRI, 128-Slice CT Scan, Digital X-Ray, and 4D Ultrasound.
+* **Power:** 100% Solar-Hybrid Microgrid for 24/7 reliability of life-support systems.
+* **Logistics:** 6 Specialized 4x4 Ambulances (2 for Hub, 1 for each MCH satellite).
+
+---
+
+## 🤝 Collaboration & Investment
+This project is currently in the **Professional Proposal Phase** and is open for collaboration with:
+* Ministry of Health (MoH)
+* International Health Organizations (WHO, UNICEF, UNFPA)
+* Private Sector Healthcare Investors
 
 **Lead Researcher:** Ahmed Ismail Saed Hussein  
 **Organization:** SPH Global Research  
+**Location:** Huluul, Sanaag, Somaliland
