@@ -62,4 +62,4 @@ This project is a multi-stakeholder initiative led by:
 **Founder & CEO:** SPH Global Research  
 **Status:** Investment-Ready / Professional Portfolio
 
-[a.ismail.s484@gmail.com]
+Contact:[a.ismail.s484@gmail.com]
