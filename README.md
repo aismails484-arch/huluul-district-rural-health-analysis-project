@@ -8,12 +8,14 @@ The project focuses on high-impact specialties—specifically Neurology, Orthope
 
 ---
 
-## 📂 Project Documentation (Quick Links)
-* [📋 Implementation Plan](./implementation-plan.md)
-* [💰 Budget Estimate Overview](./budget-overview.md)
-* [📊 Health Access Analysis](./health-analysis.md)
-* [💧 Water-Health Nexus Report](./water-health-report.md)
-* [🛠️ Technical Requirements](./technical-requirements.md)
+## 📂 Project Documentation (Direct Links)
+*Guji links-ka hoose si aad u furto faylasha:*
+
+* 📋 **[Implementation Plan](Implementation_Plan.md)**
+* 💰 **[Budget Estimate Overview](Budget_Estimate_Overview.md)**
+* 📊 **[Health Access Analysis](Health_Analysis.md)**
+* 💧 **[Water-Health Nexus Report](water_report.md)**
+* 🛠️ **[Technical Requirements](requirements.txt)**
 
 ---
 
